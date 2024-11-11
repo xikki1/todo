@@ -1,0 +1,9 @@
+.add-btn {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3), 0 4px 8px 3px rgba(0, 0, 0, 0.15);
+    background: #EEE8F4;
+    padding: 19px;
+    border-radius: 16px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
